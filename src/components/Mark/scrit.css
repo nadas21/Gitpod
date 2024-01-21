@@ -1,0 +1,31 @@
+.header-nav3 {
+    margin-top: 160px;
+}
+
+
+.header-list1 {
+    display: flex;
+    align-items: center;
+}
+.header-item-salom {
+    margin-left: 230px;
+}
+.header-item-a {
+    color: #12100C;
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: 19.5px; /* 150% */
+}
+.p{
+    margin-top: 100px;
+}
+.img1{
+    margin-left: 234px;
+    margin-top: 83px;
+}
+.item-p{
+    margin-left: 270px;
+    margin-top: -25px;
+}

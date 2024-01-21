@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1378px;
+  margin: 0 auto;
+}
+
+body {
+  background: #F9F9F9;
+}
